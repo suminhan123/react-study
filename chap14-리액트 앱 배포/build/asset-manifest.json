@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11c583c9.css",
+    "main.js": "/static/js/main.ccf4cabb.js",
+    "static/css/145.cb3ae9cf.chunk.css": "/static/css/145.cb3ae9cf.chunk.css",
+    "static/js/145.547f3d5b.chunk.js": "/static/js/145.547f3d5b.chunk.js",
+    "static/css/229.5ae33c8a.chunk.css": "/static/css/229.5ae33c8a.chunk.css",
+    "static/js/229.e4793cc9.chunk.js": "/static/js/229.e4793cc9.chunk.js",
+    "index.html": "/index.html",
+    "main.11c583c9.css.map": "/static/css/main.11c583c9.css.map",
+    "main.ccf4cabb.js.map": "/static/js/main.ccf4cabb.js.map",
+    "145.cb3ae9cf.chunk.css.map": "/static/css/145.cb3ae9cf.chunk.css.map",
+    "145.547f3d5b.chunk.js.map": "/static/js/145.547f3d5b.chunk.js.map",
+    "229.5ae33c8a.chunk.css.map": "/static/css/229.5ae33c8a.chunk.css.map",
+    "229.e4793cc9.chunk.js.map": "/static/js/229.e4793cc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11c583c9.css",
+    "static/js/main.ccf4cabb.js"
+  ]
+}
